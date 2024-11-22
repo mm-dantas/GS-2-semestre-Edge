@@ -80,3 +80,9 @@ O sistema realiza as seguintes funcionalidades principais:
 Você pode testar este projeto diretamente no simulador Wokwi através do link abaixo:
 
 [![Simular no Wokwi](https://img.shields.io/badge/Wokwi-Simular%20Projeto-blue?style=for-the-badge&logo=arduino)](https://wokwi.com/projects/414640233393353729)
+
+## Demosntração
+Veja a demonstração do projeto no Youtube através do link abaixo:
+
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assista%20o%20Vídeo-red?style=for-the-badge&logo=youtube)](https://youtu.be/3gyEASLUIs4?si=MzcTIfQB7EtFcH2E)
+
