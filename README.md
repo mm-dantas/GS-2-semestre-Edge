@@ -21,10 +21,12 @@ O sistema realiza as seguintes funcionalidades principais:
   - LEDs indicativos (Verde, Amarelo e Vermelho.
   - Display LCD I2C 16x2.
   - Potenciômetro (Simulação de variações na tensão).
+ 
 **Software:**
   - Linguagem: C++.
   - Conexão: WiFi (MQTT para comunicação).
   - Wokwi (Simulador de eletrônica online).
+
 **Bibliotecas necessárias:**
   - PubSubClient.
   - DHT Sensor Library.
