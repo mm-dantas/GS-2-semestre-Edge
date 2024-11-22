@@ -1,10 +1,10 @@
+# Monitoramento De Tensão Elétrica
+
 ## Integrantes do grupo:
 - **Nome:** Matheus Dantas Carvalho **RM:** `558804`
 - **Nome:** Marco Antonio Gonçalves **RM:** `556818`
 - **Nome:** Silas Alves Santos **RM:** `555020`
 
-
-# Monitoramento De Tensão Elétrica
 ## Sobre o Projeto
 O Dispositivo de Monitoramento de Tensão Elétrica foi desenvolvido para auxiliar no combate às perdas no sistema elétrico, promovendo eficiência energética e sustentabilidade. Utilizando sensores, atuadores e conectividade MQTT, o dispositivo realiza monitoramento em tempo real da tensão elétrica e temperatura do próprio dispositivo, exibindo as informações em um display local e enviando dados para monitoramento remoto.
 
