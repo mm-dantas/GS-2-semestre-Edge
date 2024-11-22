@@ -1,4 +1,4 @@
-# Integrantes do grupo:
+## Integrantes do grupo:
 - **Nome:** Matheus Dantas Carvalho **RM:** `558804`
 - **Nome:** Marco Antonio Gonçalves **RM:** `556818`
 - **Nome:** Silas Alves Santos **RM:** `555020`
