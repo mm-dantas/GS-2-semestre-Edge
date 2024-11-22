@@ -45,6 +45,7 @@ O sistema realiza as seguintes funcionalidades principais:
 - IDE Arduino (versão mais recente).
 - Conexão Wi-Fi disponível.
 - Broker MQTT configurado (exemplo: HiveMQ).
+- Node-Red instalado.
 - Bibliotecas necessárias:
   - PubSubClient
   - DHT Sensor Library
@@ -58,9 +59,11 @@ O sistema realiza as seguintes funcionalidades principais:
 3. Ajuste as Credenciais Wi-Fi:
    No código, substitua as variáveis ssid e password com os dados da sua rede Wi-Fi.
 4. Configuração do Broker MQTT:
-- Caso utilize outro broker, atualize as variáveis:
-   - BROKER_MQTT
-   - BROKER_PORT
+   - Caso utilize outro broker, atualize as variáveis:
+      - BROKER_MQTT
+      - BROKER_PORT
+
+
 **Executando o Projeto**
 1. Faça o upload do código para o ESP32.
 2. Conecte os componentes ao hardware conforme descrito no esquema.
