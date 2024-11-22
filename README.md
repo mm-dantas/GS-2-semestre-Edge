@@ -26,6 +26,12 @@ O sistema realiza as seguintes funcionalidades principais:
   - Linguagem: C++.
   - Conexão: WiFi (MQTT para comunicação).
   - Wokwi (Simulador de eletrônica online).
+  - Node-Red:
+       - mqtt in.
+       - mqtt out.
+       - gauge.
+       - chart.
+       - inject.
 
 **Bibliotecas necessárias:**
   - PubSubClient.
