@@ -43,4 +43,23 @@ O sistema realiza as seguintes funcionalidades principais:
   - ESP32Servo
   - LiquidCrystal_I2C
 **Configuração**
-1. Clone o Repositório: `git clone`
+1. Clone o Repositório: `git clone https://github.com/mm-dantas/GS-2-semestre-Edge.git`
+2. Configure a IDE Arduino:
+   - Selecione a placa ESP32.
+   - Instale as bibliotecas mencionadas nos requisitos.
+3. Ajuste as Credenciais Wi-Fi:
+   No código, substitua as variáveis ssid e password com os dados da sua rede Wi-Fi.
+4. Configuração do Broker MQTT:
+- Caso utilize outro broker, atualize as variáveis:
+   - BROKER_MQTT
+   - BROKER_PORT
+**Executando o Projeto**
+1. Faça o upload do código para o ESP32.
+2. Conecte os componentes ao hardware conforme descrito no esquema.
+3. Abra o monitor serial para verificar logs de execução.
+
+## Simulação no Wokwi
+
+Você pode testar este projeto diretamente no simulador Wokwi através do link abaixo:
+
+[![Simular no Wokwi](https://img.shields.io/badge/Wokwi-Simular%20Projeto-blue?style=for-the-badge&logo=arduino)](https://wokwi.com/projects/414640233393353729)
